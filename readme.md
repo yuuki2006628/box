@@ -2,7 +2,11 @@
   
 yukiokamura  
 2015.12.11  
-©2015 yukiokamura All Rights Reserved.  
+©2015 yukiokamura All Rights Reserved.   
+
+
+sample view HERE  
+http://yukiokamura.tokyo/playground/#box
 
 ---
 
@@ -24,4 +28,4 @@ and Write
 <script src="box.js"></script>
 ```
 
-just before finishing body TAG;
+just before finishing body TAG; 
