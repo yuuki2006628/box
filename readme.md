@@ -24,4 +24,4 @@ and Write
 <script src="box.js"></script>
 ```
 
-just before body TAG;
+just before finishing body TAG;
